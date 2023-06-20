@@ -10,4 +10,4 @@ class Solution:
         return str(x) == str(x)[::-1]
 # @lc code=end
 
-Solution().isPalindrome(123)
+print(Solution().isPalindrome(12321))
