@@ -11,3 +11,4 @@ class Solution:
 # @lc code=end
 
 print(Solution().isPalindrome(12321))
+print(Solution().isPalindrome(442424))
